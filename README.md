@@ -1,3 +1,4 @@
+# Zenn Status
 ![](https://github-readme-blog-score-shota1995m.vercel.app/api/get_zenn_score?zennId=joho0724)
 
 # Recent Zenn Articles
@@ -9,6 +10,8 @@
 - Jul 13 [まずPerplexity AIで検索してみない？](https://zenn.dev/joho0724/articles/sankaku0724-newcreate21)
 - Jul 6 [【初学者向け】Dockerネットワークの基礎](https://zenn.dev/joho0724/articles/sankaku0724-newcreate20)
 <!-- profile updater end: zenn -->
+
+# Github Status
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankaku0724&layout=compact&count_private=true&show_icons=true&theme=onedark" />
