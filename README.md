@@ -1,5 +1,10 @@
 ![](https://github-readme-blog-score-shota1995m.vercel.app/api/get_zenn_score?zennId=joho0724)
 
+# Recent Zenn Articles
+
+<!-- profile updater begin: zenn -->
+<!-- profile updater end: zenn -->
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankaku0724&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sankaku0724&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
