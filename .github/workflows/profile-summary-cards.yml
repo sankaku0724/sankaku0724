@@ -1,5 +1,8 @@
 name: GitHub-Profile-Summary-Cards
 
+permissions:
+  contents: write
+
 on:
   schedule: # execute every 24 hours
     - cron: "* */24 * * *"
