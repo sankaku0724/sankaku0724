@@ -3,6 +3,11 @@
 # Recent Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Aug 10 [PythonでZennの画像埋め込みリンクを生成](https://zenn.dev/joho0724/articles/sankaku0724-newcreate25)
+- Aug 3 [Githubで始める卒論プログラム管理](https://zenn.dev/joho0724/articles/sankaku0724-newcreate24)
+- Jul 27 [【C言語】めざせ動的メモリマスター](https://zenn.dev/joho0724/articles/sankaku0724-newcreate22)
+- Jul 13 [まずPerplexity AIで検索してみない？](https://zenn.dev/joho0724/articles/sankaku0724-newcreate21)
+- Jul 6 [【初学者向け】Dockerネットワークの基礎](https://zenn.dev/joho0724/articles/sankaku0724-newcreate20)
 <!-- profile updater end: zenn -->
 
 <p align="left"> 
