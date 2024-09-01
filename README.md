@@ -4,11 +4,11 @@
 # Recent Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Aug 31 [【macOS】実行権限もあるし、絶対に正しいsudoパスワードも打ち込んでるのに実行できない時はこうすればいいんや！](https://zenn.dev/joho0724/articles/sankaku0724-newcreate29)
 - Aug 24 [Gnuplotで簡単に美しくグラフ生成](https://zenn.dev/joho0724/articles/sankaku0724-newcreate26)
 - Aug 17 [【初学者向け】Docker Composeの基礎と実践](https://zenn.dev/joho0724/articles/sankaku0724-newcreate23)
 - Aug 10 [PythonでZennの画像埋め込みリンクを生成](https://zenn.dev/joho0724/articles/sankaku0724-newcreate25)
 - Aug 3 [Githubで始める卒論プログラム管理](https://zenn.dev/joho0724/articles/sankaku0724-newcreate24)
-- Jul 27 [【C言語】めざせ動的メモリマスター](https://zenn.dev/joho0724/articles/sankaku0724-newcreate22)
 <!-- profile updater end: zenn -->
 
 # Github Status
