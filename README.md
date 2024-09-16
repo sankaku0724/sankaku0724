@@ -1,6 +1,17 @@
 # Zenn Status
 ![](https://github-readme-blog-score-shota1995m.vercel.app/api/get_zenn_score?zennId=joho0724)
 
+- 📝 I regularly write articles on [https://zenn.dev/joho0724](https://zenn.dev/joho0724)<br>
+    <a href="https://zenn.dev/joho0724">
+    <img src="https://zenn.badge.nikaera.com/s/joho0724/likes?style=social" alt="joho0724 likes" />
+  </a>
+  <a href="https://zenn.dev/joho0724/articles">
+    <img src="https://zenn.badge.nikaera.com/s/joho0724/articles?style=social" alt="joho0724 articles" />
+  </a>
+  <a href="https://zenn.dev/joho0724/followers">
+    <img src="https://zenn.badge.nikaera.com/s/joho0724/followers?style=social" alt="joho0724 followers" />
+  </a>
+
 # Recent Zenn Articles
 
 <!-- profile updater begin: zenn -->
