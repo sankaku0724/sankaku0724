@@ -12,7 +12,7 @@
     <img src="https://zenn.badge.nikaera.com/s/joho0724/followers?style=social" alt="joho0724 followers" />
   </a>
   <a href="https://zenn.dev/joho0724/scraps">
-    <img src="https://zenn.badge.nikaera.com/s/joho0724/scraps?style=plastic" alt="joho0724 scraps" />
+    <img src="https://zenn.badge.nikaera.com/s/joho0724/scraps?style=social" alt="joho0724 scraps" />
   </a>
 
 # Recent Zenn Articles
