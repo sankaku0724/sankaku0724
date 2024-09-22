@@ -18,11 +18,11 @@
 # Recent Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Sep 21 [Speaker Deckで手軽にスライドを共有](https://zenn.dev/joho0724/articles/sankaku0724-newcreate30)
 - Sep 14 [Formspreeでコンタクトフォームを実装する](https://zenn.dev/joho0724/articles/sankaku0724-newcreate27)
 - Aug 31 [【macOS】実行権限もあるし、絶対に正しいsudoパスワードも打ち込んでるのに実行できない時はこうすればいいんや！](https://zenn.dev/joho0724/articles/sankaku0724-newcreate29)
 - Aug 24 [Gnuplotで簡単に美しくグラフ生成](https://zenn.dev/joho0724/articles/sankaku0724-newcreate26)
 - Aug 17 [【初学者向け】Docker Composeの基礎と実践](https://zenn.dev/joho0724/articles/sankaku0724-newcreate23)
-- Aug 10 [PythonでZennの画像埋め込みリンクを生成](https://zenn.dev/joho0724/articles/sankaku0724-newcreate25)
 <!-- profile updater end: zenn -->
 
 # Github Status
