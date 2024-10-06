@@ -18,11 +18,11 @@
 # Recent Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Oct 5 [Xcodeをインストールする](https://zenn.dev/joho0724/articles/sankaku0724-newcreate32)
 - Sep 28 [【初学者向け】Dockerfileからイメージを作成する](https://zenn.dev/joho0724/articles/sankaku0724-newcreate31)
 - Sep 21 [Speaker Deckで手軽にスライドを共有](https://zenn.dev/joho0724/articles/sankaku0724-newcreate30)
 - Sep 14 [Formspreeでコンタクトフォームを実装する](https://zenn.dev/joho0724/articles/sankaku0724-newcreate27)
 - Aug 31 [【macOS】実行権限もあるし、絶対に正しいsudoパスワードも打ち込んでるのに実行できない時はこうすればいいんや！](https://zenn.dev/joho0724/articles/sankaku0724-newcreate29)
-- Aug 24 [Gnuplotで簡単に美しくグラフ生成](https://zenn.dev/joho0724/articles/sankaku0724-newcreate26)
 <!-- profile updater end: zenn -->
 
 # Github Status
