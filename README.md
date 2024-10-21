@@ -1,4 +1,4 @@
-# My Website
+# Website
 https://sankaku0724.github.io/
 
 # Zenn Status
