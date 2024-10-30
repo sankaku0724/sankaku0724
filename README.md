@@ -22,7 +22,7 @@ https://sankaku0724.github.io/
 
 <!-- profile updater begin: zenn -->
 - Oct 26 [Jain's Fairness Indexでネットワークの公平性を評価する](https://zenn.dev/joho0724/articles/sankaku0724-newcreate36)
-- Oct 19 [KMPで「import shared」が機能しない時の対処法](https://zenn.dev/joho0724/articles/sankaku0724-newcreate34)
+- Oct 19 [KMPで「import shared」が機能しない時の対処法](https://zenn.dev/cocban_blog/articles/sankaku0724-newcreate34)
 - Oct 12 [SwiftUIのチュートリアルをやってみた](https://zenn.dev/joho0724/articles/sankaku0724-newcreate33)
 - Oct 5 [Xcodeをインストールする](https://zenn.dev/joho0724/articles/sankaku0724-newcreate32)
 - Sep 28 [【初学者向け】Dockerfileからイメージを作成する](https://zenn.dev/joho0724/articles/sankaku0724-newcreate31)
