@@ -21,11 +21,11 @@ https://sankaku0724.github.io/
 # Recent Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Nov 16 [Zennをはてなサービスと連携してみた](https://zenn.dev/joho0724/articles/sankaku0724-newcreate39)
 - Nov 10 [KMPで「import shared」が機能しない時の対処法Ⅱ](https://zenn.dev/cocban_blog/articles/sankaku0724-newcreate40)
 - Nov 9 [IPv4とIPv6の違いまとめ](https://zenn.dev/joho0724/articles/sankaku0724-newcreate37)
 - Nov 2 [【初心者向け】Pythonの仮想環境を作成する](https://zenn.dev/joho0724/articles/sankaku0724-newcreate35)
 - Oct 26 [Jain's Fairness Indexでネットワークの公平性を評価する](https://zenn.dev/joho0724/articles/sankaku0724-newcreate36)
-- Oct 19 [KMPで「import shared」が機能しない時の対処法](https://zenn.dev/cocban_blog/articles/sankaku0724-newcreate34)
 <!-- profile updater end: zenn -->
 
 # Github Status
