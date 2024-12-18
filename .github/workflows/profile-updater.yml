@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 履歴をすべて取得する
+
       - name: Install dependencies
         run: |
           # 必要なパッケージをインストール
@@ -30,6 +33,6 @@ jobs:
           git add .
           git commit -m "profile updated" || true
 
-          # プッシュ前にリモート変更をマージ
+          # プッシュ前にリモートの変更をリベース
           git pull --rebase origin main
           git push origin main
