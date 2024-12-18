@@ -39,4 +39,4 @@ jobs:
           git commit -m "profile updated" || true
 
           # プッシュ
-          git push origin main
+          git push origin main || git pull --rebase origin main && git push origin main
