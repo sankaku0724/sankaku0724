@@ -18,7 +18,6 @@ jobs:
 
       - name: Install dependencies
         run: |
-          # 必要なパッケージをインストール
           sudo apt update
           sudo apt install -y git mono-runtime
 
@@ -26,17 +25,18 @@ jobs:
         with:
           zenn_user_id: joho0724
 
-      - name: Commit and push
+      - name: Commit and push changes
         run: |
+          # Git設定
           git config --local user.name "GitHub Actions"
           git config --local user.email "action@github.com"
 
-          # プッシュ前にリモート変更をリベースで取得
+          # リモート変更を取得してリベース
           git pull --rebase origin main || true
 
-          # コミットが必要なら実行
+          # コミットが必要な場合にコミット
           git add .
           git commit -m "profile updated" || true
 
-          # プッシュを強制的に実行（競合回避）
-          git push origin main --force
+          # プッシュ
+          git push origin main
