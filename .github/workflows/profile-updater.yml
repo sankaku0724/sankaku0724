@@ -29,4 +29,7 @@ jobs:
           git config --local user.email "action@github.com"
           git add .
           git commit -m "profile updated" || true
+
+          # プッシュ前にリモート変更をマージ
+          git pull --rebase origin main
           git push origin main
