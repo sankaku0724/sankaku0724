@@ -13,9 +13,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Install dependencies
+        run: |
+          # 必要なパッケージをインストール
+          sudo apt update
+          sudo apt install -y git mono-runtime # その他必要なパッケージを追加
+
       - uses: kumackey/profile-updater@v1
         with:
           zenn_user_id: joho0724
+
       - name: Commit and push
         run: |
           git config --local user.name "GitHub Actions"
