@@ -20,7 +20,7 @@ jobs:
         run: |
           # 必要なパッケージをインストール
           sudo apt update
-          sudo apt install -y git mono-runtime # その他必要なパッケージを追加
+          sudo apt install -y git mono-runtime
 
       - uses: kumackey/profile-updater@v1
         with:
@@ -30,9 +30,13 @@ jobs:
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "action@github.com"
+
+          # プッシュ前にリモート変更をリベースで取得
+          git pull --rebase origin main || true
+
+          # コミットが必要なら実行
           git add .
           git commit -m "profile updated" || true
 
-          # プッシュ前にリモートの変更をリベース
-          git pull --rebase origin main
-          git push origin main
+          # プッシュを強制的に実行（競合回避）
+          git push origin main --force
