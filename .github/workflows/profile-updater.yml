@@ -27,14 +27,14 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          # Git設定
+          # Gitの設定
           git config --local user.name "GitHub Actions"
           git config --local user.email "action@github.com"
 
-          # リモート変更を取得してリベース
-          git pull --rebase origin main || true
+          # リモートの変更を取り込む
+          git pull origin main --rebase || true
 
-          # コミットが必要な場合にコミット
+          # 必要な変更をコミット
           git add .
           git commit -m "profile updated" || true
 
