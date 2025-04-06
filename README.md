@@ -7,11 +7,11 @@ https://sankaku0724.github.io/
 # Recent Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Apr 5 [Slackの認証エラーの原因と対処法](https://zenn.dev/joho0724/articles/sankaku0724-newcreate43)
 - Feb 22 [【KMP】LazyRowのクラッシュ問題を解決する](https://zenn.dev/cocban_blog/articles/sankaku0724-newcreate42)
 - Nov 30 [【KMP】Xcodeのビルドで発生するSQLite3エラーの対処法](https://zenn.dev/cocban_blog/articles/sankaku0724-newcreate41)
 - Nov 23 [IPv4とIPv6の共存を実現するデュアルスタック技術](https://zenn.dev/joho0724/articles/sankaku0724-newcreate38)
 - Nov 16 [Zennをはてなサービスと連携してみた](https://zenn.dev/joho0724/articles/sankaku0724-newcreate39)
-- Nov 10 [KMPで「import shared」が機能しない時の対処法Ⅱ](https://zenn.dev/cocban_blog/articles/sankaku0724-newcreate40)
 <!-- profile updater end: zenn -->
 
 # Github Status
