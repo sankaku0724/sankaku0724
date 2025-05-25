@@ -7,11 +7,11 @@ https://sankaku0724.github.io/
 # Recent Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- May 24 [IPv6基礎検定を受けてみた話](https://zenn.dev/joho0724/articles/sankaku0724-newcreate45)
 - May 10 [【macOS】NetAnimでネットワークシミュレーションを可視化する](https://zenn.dev/joho0724/articles/sankaku0724-newcreate44)
 - Apr 19 [【macOS】ns-3を使えるようにするまでの手順](https://zenn.dev/joho0724/articles/sankaku0724-newcreate28)
 - Apr 5 [Slackの認証エラーの原因と対処法](https://zenn.dev/joho0724/articles/sankaku0724-newcreate43)
 - Feb 22 [【KMP】LazyRowのクラッシュ問題を解決する](https://zenn.dev/cocban_blog/articles/sankaku0724-newcreate42)
-- Nov 30 [【KMP】Xcodeのビルドで発生するSQLite3エラーの対処法](https://zenn.dev/cocban_blog/articles/sankaku0724-newcreate41)
 <!-- profile updater end: zenn -->
 
 # Github Status
