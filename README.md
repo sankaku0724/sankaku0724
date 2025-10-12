@@ -7,11 +7,11 @@ https://sankaku0724.github.io/
 # Recent Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Oct 11 [【macOS】Haskell開発環境を構築して試してみる](https://zenn.dev/joho0724/articles/sankaku0724-newcreate49)
 - Sep 20 [freee株式会社の2025年度サマーインターンシップに参加した話](https://zenn.dev/joho0724/articles/sankaku0724-newcreate48)
 - Aug 23 [JANOG56に若者支援プログラムで参加した話](https://zenn.dev/joho0724/articles/sankaku0724-newcreate47)
 - Jul 5 [【Ubuntu】ns-3を使えるようにするまでの手順](https://zenn.dev/joho0724/articles/sankaku0724-newcreate46)
 - May 24 [IPv6基礎検定を受けてみた話](https://zenn.dev/joho0724/articles/sankaku0724-newcreate45)
-- May 10 [【macOS】NetAnimでネットワークシミュレーションを可視化する](https://zenn.dev/joho0724/articles/sankaku0724-newcreate44)
 <!-- profile updater end: zenn -->
 
 # Github Status
